@@ -3,7 +3,7 @@
 export default function Mains() {
   return (
     <>
-      <section>
+      <section id="home-container">
       <main className="main-container">
         <h1>Hola Mundo</h1>
       </main>
