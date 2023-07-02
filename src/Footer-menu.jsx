@@ -8,7 +8,7 @@ export default function Footermenu() {
             <li><a href="https://github.com/miperezf"><span>Github</span><img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/d7e4e1e509c728d.png" alt="" /></a></li>
         </ul>
         <div className="developed-span">
-        <span>Developed by Vo1d © Copyright 2023</span>
+        <span>Developed by Vo1d © Copyright 202</span>
         </div>
 </footer>
         
